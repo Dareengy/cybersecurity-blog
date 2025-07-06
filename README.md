@@ -4,7 +4,7 @@ A beginner-friendly static website designed to introduce the fundamentals of cyb
 
 ## 🌐 Live Demo
 
-[View the Site]([https://yourdomain.com](https://dareengy.github.io/cybersecurity-blog/)
+[View the Site](https://dareengy.github.io/cybersecurity-blog/)
 
 ---
 
